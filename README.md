@@ -8,4 +8,4 @@ Hi, Im Casandra Tabuzo Lopez. Currently a college student in City College of Ang
 - Elementary: Northville 15 Integrated School
 ### My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](Midterm%20Lab%20Task%201/README.md)
-- Midterm Lab Task 2: [Data Cleaning and Preparation using Excel]()
+- Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query]()
