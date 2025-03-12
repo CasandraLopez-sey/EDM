@@ -13,7 +13,7 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 - Filter New Column
 - Handle negative values
 ## Step 2 Here's the screenshot of my output before I started data cleaning using power query (See screenshot)
-![Sample Output](Images/)
+![Sample Output](Images/uncleaned.jpeg)
 ## Step 3 Here's the screenshot of my output after I started data cleaning using power query (See screenshot)
 ![Sample Output](Images/cleaned.jpeg)
 ## Step 4 Here's the screenshots of my group tables using power query (See screenshots)
