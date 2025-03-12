@@ -13,15 +13,15 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 - Filter New Column
 - Handle negative values
 ## Here's the screenshot of my output before doing Cleaning and Transformation (See screenshot)
-![Sample Output](images/uncleaned.png)
+![Sample Output](Images/uncleaned.png)
 ## Here's the screenshots of my final output (See screenshots)
 - **Sal by Role Type**
-![Sample Output](images/roletypedup.png)
+![Sample Output](Images/roletypedup.png)
 - **Sal by Size**
-![Sample Output](images/sizeref.png)
+![Sample Output](Images/sizeref.png)
 - **Sal by Size Role Type**
-![Sample Output](images/sizeroletype.png)
+![Sample Output](Images/sizeroletype.png)
 - **Sal by State**
-![Sample Output](images/stateref.png)
+![Sample Output](Images/stateref.png)
 ## Here's the Query Dependencies
-![Sample Output](images/erdd.png)
+![Sample Output](Images/erdd.png)
