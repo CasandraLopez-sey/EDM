@@ -12,12 +12,16 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 - Select Location column
 - Filter New Column
 - Handle negative values
-
-## Step 2 Here's the screenshoot of my output before I started data cleaning using power query (See screenshot)
-
-## Step 3 Here's the screenshoot of my output after I started data cleaning using power query (See screenshot)
-
-
-## Step 4 Here's the screenshot of my group tables using power query (See Screenshot)
-
-## Here's the screenshot of my Query Dependencies (See Screenshot)
+## Here's the screenshot of my output before doing Cleaning and Transformation (See screenshot)
+![Sample Output](images/uncleaned.png)
+## Here's the screenshots of my final output (See screenshots)
+- **Sal by Role Type**
+![Sample Output](images/roletypedup.png)
+- **Sal by Size**
+![Sample Output](images/sizeref.png)
+- **Sal by Size Role Type**
+![Sample Output](images/sizeroletype.png)
+- **Sal by State**
+![Sample Output](images/stateref.png)
+## Here's the Query Dependencies
+![Sample Output](images/erdd.png)
