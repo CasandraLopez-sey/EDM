@@ -19,11 +19,15 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ## Step 4 Here's the screenshots of my group tables using power query (See screenshots)
 - **Sal by Role Type**
 ![Sample Output](Images/roletypedup.PNG)
+
 - **Sal by Size**
 ![Sample Output](Images/sizeref.PNG)
+
 - **Sal by Size Role Type**
 ![Sample Output](Images/sizeroletype.PNG)
+
 - **Sal by State**
 ![Sample Output](Images/stateref.PNG)
+
 ## Here's the Query Dependencies
 ![Sample Output](Images/erdd.PNG)
