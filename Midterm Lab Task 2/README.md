@@ -13,9 +13,9 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 - Filter New Column
 - Handle negative values
 ## Step 2 Here's the screenshot of my output before I started data cleaning using power query (See screenshot)
-![Sample Output](Images/uncleaned.jpeg)
+![Sample Output](Images/)
 ## Step 3 Here's the screenshot of my output after I started data cleaning using power query (See screenshot)
-![Sample Output](Images/cleaned.jpeg)
+![Sample Output](Images/)
 ## Step 4 Here's the screenshots of my group tables using power query (See screenshots)
 - **Sal by Role Type**
 ![Sample Output](Images/roletypedup.PNG)
