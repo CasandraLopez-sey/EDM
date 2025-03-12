@@ -13,7 +13,7 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 - Filter New Column
 - Handle negative values
 ## Here's the screenshot of my output before doing Cleaning and Transformation (See screenshot)
-![Sample Output](Images/uncleaned.PNG)
+![Sample Output](Images/uncleaned.jpeg)
 ## Here's the screenshots of my final output (See screenshots)
 - **Sal by Role Type**
 ![Sample Output](Images/roletypedup.PNG)
