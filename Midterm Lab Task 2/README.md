@@ -13,21 +13,21 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 - Filter New Column
 - Handle negative values
 ## Step 2 Here's the screenshot of my output before I started data cleaning using power query (See screenshot)
-![Sample Output](Images/)
+![Sample Output](Images/uncleaned.png)
 ## Step 3 Here's the screenshot of my output after I started data cleaning using power query (See screenshot)
-![Sample Output](Images/)
+![Sample Output](Images/cleaned.png)
 ## Step 4 Here's the screenshots of my group tables using power query (See screenshots)
 - **Sal by Role Type**
-![Sample Output](Images/roletypedup.PNG)
+![Sample Output](Images/roletype.png)
 
 - **Sal by Size**
-![Sample Output](Images/sizeref.PNG)
+![Sample Output](Images/sizeref.png)
 
 - **Sal by Size Role Type**
-![Sample Output](Images/sizeroletype.PNG)
+![Sample Output](Images/sizeroletype.png)
 
 - **Sal by State**
-![Sample Output](Images/stateref.PNG)
+![Sample Output](Images/stateref.png)
 
 ## Here's the Query Dependencies
-![Sample Output](Images/erdd.PNG)
+![Sample Output](Images/query.png)
