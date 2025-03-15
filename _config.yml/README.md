@@ -1,4 +1,0 @@
-title: Casandra Lopez
-logo: 
-show_download: true
-tremote_theme: pages-themes/minimal@v0.2.0
