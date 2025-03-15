@@ -22,8 +22,8 @@ Here's the screenshot of my output before I started creating pivot tables and ch
 ![Sample Output](images/job.PNG)
 
 Here's the screenshot of my output after I started creating pivot tables and charts (See screenshot)
-![Sample Output](images/pivot.PNG)
-![Sample Output](images/slicers.PNG)
+![Sample Output](images/pivot.png)
+![Sample Output](images/slicers.png)
 
 Here's the Final Dashboard Output
-![Sample Output](images/dashboard.PNG)
+![Sample Output](images/dashboard.png)
