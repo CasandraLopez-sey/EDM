@@ -1,4 +1,6 @@
 title: Casandra Lopez
 logo: 483136615_1293736165229155_1544219501697078242_n.jpg
 show_download: true
+theme: jekyll-theme-minimal
 tremote_theme: pages-themes/minimal@v0.2.0
+plugins: jekyll-theme-slate
