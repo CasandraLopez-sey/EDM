@@ -23,6 +23,7 @@ Here's the screenshot of my output before I started creating pivot tables and ch
 
 Here's the screenshot of my output after I started creating pivot tables and charts (See screenshot)
 ![Sample Output](images/pivot.png)
+
 ![Sample Output](images/slicers.png)
 
 Here's the Final Dashboard Output
