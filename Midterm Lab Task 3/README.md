@@ -19,7 +19,7 @@ For this task I worked on organizing and showing data using Pivot Table and Dash
 appealing and presentable.
 
 Here's the screenshot of my output before I started creating pivot tables and charts (See screenshot)
-![Sample Output](images/job.PNG)
+![Sample Output](images/job.png)
 
 Here's the screenshot of my output after I started creating pivot tables and charts (See screenshot)
 ![Sample Output](images/pivot.png)
