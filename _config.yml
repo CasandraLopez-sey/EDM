@@ -1,5 +1,4 @@
 title: Casandra Lopez
 show_download: true
 theme: jekyll-theme-minimal
-tremote_theme: pages-themes/minimal@v0.2.0
-plugins: jekyll-theme-slate
+
