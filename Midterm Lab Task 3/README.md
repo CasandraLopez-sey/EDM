@@ -26,5 +26,7 @@ Here's the screenshot of my output after I started creating pivot tables and cha
 
 ![Sample Output](images/slicers.png)
 
+
 Here's the Final Dashboard Output
+
 ![Sample Output](images/dashboard.png)
