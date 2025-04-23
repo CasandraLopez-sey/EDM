@@ -10,3 +10,6 @@ Hi, Im Casandra Tabuzo Lopez. Currently a college student in City College of Ang
 - Midterm Lab Task 1: [Data Cleaning and Preparation using Excel](https://github.com/CasandraLopez-sey/EDM/tree/main/Midterm%20Lab%20Task%201)
 - Midterm Lab Task 2: [Data Cleaning and Preparation using Power Query](https://github.com/CasandraLopez-sey/EDM/tree/main/Midterm%20Lab%20Task%202)
 - Midterm Lab Task 3: [Creating Pivot table and Dashboard](https://github.com/CasandraLopez-sey/EDM/tree/main/Midterm%20Lab%20Task%203)
+
+- Final Lab Task 1:[Multi Level Company Database]
+(https://github.com/CasandraLopez-sey/EDM/tree/main/Final%20Lab%20Task%201)
