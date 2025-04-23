@@ -6,43 +6,43 @@ It includes employees, departments, managers, and their relationships with proje
 ## Database: MultiLevel_company
 
 
-### Employees Table
+### Employees_Table
 ![sample Output](images/TASK1.1.PNG)
 
 
-### EMPLOYEES TABLE STRUCTURE
+### Employees Table Structure 
 ![sample Output](images/TASK1.1.PNG)
 
 
-### Departments Table
+### Departments_Table
 ![sample Output](images/TASK2.1.PNG)
 
 
-### DEPARTMENTS TABLE STRUCTURE
+### Departments Table Structure 
 ![sample Output](images/TASK2.1.PNG)
 
 
-### Employee_Departments Table
+### Employee_Departments_Table
 ![sample Output](images/TASK3.1.PNG)
 
 
-### EMPLOYEES_DEPARTMENTS TABLE STRUCTURE
+### Employees Department Table Structure 
 ![sample Output](images/TASK3.1.PNG)
 
 
-### Task 4: Employee_Projects Table
+### Task 4: Employee_Projects_Table
 ![sample Output](images/TASK4.1.PNG)
 
 
-### EMPLOYEES_PROJECTS TABLE STRUCTURE
+### Employees Project Table Structure 
 ![sample Output](images/TASK4.1.PNG)
 
 
-### Task 5: Managers Table
+### Task 5: Managers_Table
 ![sample Output](images/TASK5.1.PNG)
 
 
-### MANAGERS TABLE STRUCTURE
+### Manager Table Structure 
 ![sample Output](images/TASK5.1.PNG)
 
 
